@@ -1,10 +1,12 @@
-td#available {
-	vertical-align: top;
-	text-align: center;
-	}
+
+@import url('https://www.fontify.me/wf/d5bccb80bb025df0debe00a49b73225a');
 
 a {
+    font-family: "font75115";
+    font-size: 150%;
 	color: black;
 	text-decoration: none;
 	font-weight: bold;
 	}
+
+
